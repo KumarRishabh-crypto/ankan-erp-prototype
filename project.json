@@ -1,0 +1,14 @@
+{
+  "name": "ANKAN \u2014 Integrated Operations & Management System",
+  "type": "frontend-prototype",
+  "stack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "backend_ready_for": [
+    "Flask",
+    "Relational Database"
+  ],
+  "entry": "index.html"
+}
