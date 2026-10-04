@@ -1,0 +1,22 @@
+{
+  "name": "Aravli Crafts — Integrated Operations Platform",
+  "type": "frontend-prototype",
+  "stack": ["HTML", "CSS", "JavaScript"],
+  "entry": "index.html",
+  "persistence": "browser localStorage",
+  "demo_mode": "Dummy data is cleared on first real data save",
+  "brand": "Aravli Crafts",
+  "navigation": [
+    "Dashboard",
+    "Orders",
+    "Vendors",
+    "Inventory",
+    "Dyeing",
+    "Designs",
+    "Weaving",
+    "Transport",
+    "Finance",
+    "Notifications",
+    "Reports"
+  ]
+}
